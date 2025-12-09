@@ -1,12 +1,4 @@
-{
- "cells": [
-  {
-   "cell_type": "code",
-   "execution_count": None,
-   "id": "28e789a3-e064-4cef-b229-03969577f729",
-   "metadata": {},
-   "outputs": [],
-   "source": [
+
     "import streamlit as st\n",
     "import pandas as pd\n",
     "import pickle\n",
