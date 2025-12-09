@@ -1,2 +1,2 @@
-Python Version	runtime.txt Content
-Python 3.11 (Recommended)	python-3.11
+Python 3.11 
+
